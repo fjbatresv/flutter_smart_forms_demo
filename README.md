@@ -16,7 +16,7 @@ The data of this documents is the next:
         {
             "label": "<Label to show>",
             "error_message": "<The error message to show in case is necessary>",
-            "required": true|false // Field is mandatory
+            "required": true || false,
             "type": "<Type of field from the options>"
         }
     ]
